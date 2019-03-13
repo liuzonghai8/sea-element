@@ -19,3 +19,6 @@ npm run build
 ```
 npm run lint
 ```
+
+技术栈：
+1、Vue CLI 3.0
